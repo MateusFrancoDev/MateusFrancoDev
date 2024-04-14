@@ -1,5 +1,5 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MateusFrancoDev/f51efc461a71d4d69d8747d5f1fde5fc/raw/3ef2e6d58f235d1a17d9b16744730551d5e91f5c/gitcard.svg"/>
-<h1 align="left">Bem Vindo! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, meu Nome é Mateus</h1>
+<h1 align="left">Bem Vindo! meu nome é Mateus👋 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MateusFrancoDev&color=blue" alt="Profile views" /> </p>
 
 - 🔥 Um Desenvolvedor focado em sempre melhorar
@@ -10,7 +10,7 @@
 
 - 💬 Fale de  **JavaScript, HTML, CSS, TypeScript, Node.JS, React, React Native**
 
-- 🏃‍♂️ Atleta nas horas vagas e também crítico de cinemas 
+- 🏃‍♂️ Atleta nas horas vagas e também crítico de cinema 🎞
 
 - 👨‍💻 Vejam os meus Projetos 
 
