@@ -8,7 +8,7 @@
 
 - ▶️ Estudo através da Origmid e a Rocketseat
 
-- 💬 Falede  **JavaScript, HTML, CSS, TypeScript, Node.JS, React, React Native**
+- 💬 Fale de  **JavaScript, HTML, CSS, TypeScript, Node.JS, React, React Native**
 
 - 🏃‍♂️ Atleta nas horas vagas e também crítico de cinemas 
 
