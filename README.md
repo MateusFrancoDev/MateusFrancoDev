@@ -4,7 +4,7 @@
 
 - 🔥 Um Desenvolvedor focado em sempre melhorar
 
-- 📚 Tecnológo em Análise e desenvolvimento de sistemas 
+- 📚 Tecnológo em Análise e desenvolvimento de sistemas (Uninove)
 
 - ▶️ Estudo através da Origmid e a Rocketseat
 
