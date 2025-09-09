@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/MateusFrancoDev/f51efc461a71d4d69d8747d5f1fde5fc/raw/3ef2e6d58f235d1a17d9b16744730551d5e91f5c/gitcard.svg"/>
+
 <h1 align="left">Bem Vindo! meu nome é Mateus👋 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MateusFrancoDev&color=blue" alt="Profile views" /> </p>
 
